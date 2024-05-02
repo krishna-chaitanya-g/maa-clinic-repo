@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+}
+.center{
+    text-align: center;
+}
+html,body{
+    
+    width: 100%;
+    height: 100vh;
+    margin: 0%;
+}
+.main{
+    padding: 0.5%;
+    background-image: url("https://cdn.wallpapersafari.com/53/63/SDBJM5.jpg"); 
+}
+.heading{
+    color: chartreuse;
+    text-decoration: double;
+    font-size: xxx-large;
+    padding-left: 400px;
+}
+.links{
+  padding-left: 700px;
+}
+a {
+    color: cornsilk;
+    size: 4;
+    font-family: georgia;
+}
